@@ -27,7 +27,14 @@
 
 **Loading Image Scam**
 
-> [Click here](https://blog.hyperphish.com/articles/001-loading/) for more information about this type of scam and how it works.
+> Q: How does it work?
+> The attack, in fact, works in a much more simple way than many people imagine. Like all phishing attacks it eventually relies on you, the user, believeing that you are accessing a site you’re not. The attack works as follows:
+
+A user posts a link to an image in a server.
+The image displays a never-ending loading indicator.
+The user clicks on the image, and clicks to open it in their browser.
+The user is redirected to a phishing page.
+[Click here](https://blog.hyperphish.com/articles/001-loading/) for more information about this type of scam and how it works.
 
 ![screenshot](https://media.discordapp.net/attachments/888839159551258664/934896124496584804/unknown.png)
 
@@ -44,7 +51,7 @@
 
 **Invite Rewards Servers**
 
-> Head to the discord developers portal and create a new application. Call it what you want and then navigate to the Bot tabb on the left side. Scroll down until you see two toggles under **Priviledged Gateway Intents**. Enable **Both** of the two toggles. once done, go to the left column and selct the **Oauth2** option. Where it says Redirects, input these four Redirects into seperate options. **http://localhost:1234 , http://localhost:1234/auth/oauth-callback , http://localhost:8800** and **http://localhost:8800/auth/oauth-callback**. If you have done things correctly, it should look like this: .
+> text
 
 ![example](https://i.imgur.com/YUhgkpt.png)
 
