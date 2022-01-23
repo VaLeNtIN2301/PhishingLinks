@@ -38,11 +38,11 @@
 > [CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands), [SafeLink](https://discord.com/oauth2/authorize?client_id=819742627032596480&permissions=268725318&scope=bot+applications.commands), [AutoModerator](https://discord.com/oauth2/authorize?client_id=847081327950168104&permissions=83968&scope=applications.commands%20bot), [Dyno](discord.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds%20applications.commands&response_type=code&permissions=2134207679), [Waifu](https://discord.com/oauth2/authorize?client_id=434556304661544960&scope=bot+applications.commands&permissions=403041526), [🐟🐠](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)
 
 
-**Step 4**
+**Invite Rewards Servers**
 
 > Head to the discord developers portal and create a new application. Call it what you want and then navigate to the Bot tabb on the left side. Scroll down until you see two toggles under **Priviledged Gateway Intents**. Enable **Both** of the two toggles. once done, go to the left column and selct the **Oauth2** option. Where it says Redirects, input these four Redirects into seperate options. **http://localhost:1234 , http://localhost:1234/auth/oauth-callback , http://localhost:8800** and **http://localhost:8800/auth/oauth-callback**. If you have done things correctly, it should look like this: .
 
-![dev portal redirects](assets/image2.PNG)
+![example](https://i.imgur.com/YUhgkpt.png)
 
 **Step 5**
 
@@ -50,8 +50,6 @@
 
 ![api.env](assets/image3.PNG)
 ![bot.env](assets/image4.PNG)
-
-**https://discord.com/blog/how-discord-is-fighting-spam**
 
 > Now its time to change 2 very important files. Firstly, go into the backend folder and find the file named **package.json** . Inside of here, you want to find the end oif **lines 10 and 13**. at the end of these lines it should say **index.js** . You want to change this to say **index.js init**. Secondly, You are wanting to go to the file Backend/src/data/db.ts . Inside of this file you want to remove everything so the is no code in there at all. then you want to replace it with the code pasted here -> (https://github.com/Dragory/ZeppelinBot/blob/6a3007562ebd802d01410bf68eda875d6d3a5837/backend/src/data/db.ts). Once these two changes have been made, the bot is ready to run.
 
