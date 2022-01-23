@@ -28,9 +28,13 @@
 **Loading Image Scam**
 
 > How does it work? The attack, in fact, works in a much more simple way than many people imagine. Like all phishing attacks it eventually relies on you, the user, believeing that you are accessing a site you’re not. The attack works as follows:
+> 
 > A user posts a link to an image in a server.
+> 
 > The image displays a never-ending loading indicator.
+> 
 > The user clicks on the image, and clicks to open it in their browser.
+> 
 > The user is redirected to a phishing page.
 [Click here](https://blog.hyperphish.com/articles/001-loading/) for more information about this type of scam and how it works.
 
