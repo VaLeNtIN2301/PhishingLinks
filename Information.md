@@ -60,7 +60,7 @@ Read [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) for mo
 
 **Malware & Token Stealers**
 
-> These DMs are partially human-operated, some are automatic but some aren't. Chances are you have seen this kind of scam. Target users are often people with badges & moderators of large servers (their account can be used later).
+> These DMs are partially human-operated, some are automatic but some aren't. Chances are you have seen this kind of scam. Target users are often people with badges & moderators of large servers (their account can be used later). Always scan files before executing them ([VirusTotal](https://www.virustotal.com), [urlscan.io](https://urlscan.io), [filescan.io](https://www.filescan.io/scan)
 > 
 ![example](https://i.imgur.com/L9dl5Y1.png)
 
