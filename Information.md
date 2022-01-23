@@ -15,7 +15,7 @@
 
 **Fake Community Programs Invitation**
 
-> text (...)
+> You were randomly selectected to be a part
 ![2nd example of phishing DM](https://images-ext-2.discordapp.net/external/tV1Dk9i7JAJNKWr_qinQ6jn5zZzU-PrFTxnD8EEwQQY/https/media.discordapp.net/attachments/870365789847429270/934302746667003925/unknown.png?width=931&height=664)
 
 **Initial setup**
@@ -63,18 +63,16 @@
 
 **Step 8**
 
-> Now its time to get things up and running. open up HeidiSQL again and at the top of the tables interface there should be a small blue box that says Query*. click on this and there is two commands you need to enter into here. Firstly, copy and paste this into the query tab -> ```SHOW GLOBAL VARIABLES LIKE 'time_zone';``` . Now, press F9 on your keyboard. things should run automatically and be finished instantly. Secondly, clear out the same query tab until there is nothing in there. now, paste this into it -> ```SET GLOBAL time_zone = '+0:00';``` . Just like before, press F9 and things should run instantly and will be finished almost instantly. Congratulations, youre 2/3 of your way there now! **(every time you reset the database you will need to re-run the commands, so it is not reccomended for use 24/7)**
+> text
 
-**Step 9**
+**How to Properly Report Issues to Trust & Safety**
 
-> Now, things are starting to get serious. Close down all open terminals and open up a brand new one. run the command ```cd backend``` . oonce you are in this directory, run the command ```npm run migrate-prod``` . A lot of things will happen here. it is important to note that you will need to give it time. once this is all done, you shoud be greeted by a message saying it is complete. finally, run the command ```npm run watch``` . This will start the bot and will get everything running. If any errors pop up, ask for help on them in the suppourt server. Congrats, there is one last step. getting the dashboard online.
+> text
 
 **How Discord is Fighting Spam**
 > ”You know it. We know it. Spam sucks. So today, we want to tell you what we are doing to combat it.””
-> 
+
 https://discord.com/blog/how-discord-is-fighting-spam
 ![How Discord is Fighting Spam](https://images-ext-2.discordapp.net/external/MJqE8I4deOWknsrajka6-BsdPFb6mvK9zsHvUms_ApQ/https/assets-global.website-files.com/5f9072399b2640f14d6a2bf4/618db6b2cf98f2d9aa324a53_image5.png?width=960&height=384)
 
-**Congratulations, you've made it! Zeppelin has been set up, but this isnt the end, you will need to configure the bot for your server now. take a look at (https://github.com/dexbiobot/Zeppelin) on how to configure the bot for your server. This can be challenging, but you've made it this far so things will be easier for you.**https://discord.com/blog/how-discord-is-fighting-spam
-
-**I will update this repository with any neccesary info as time goes on**
+**text**
