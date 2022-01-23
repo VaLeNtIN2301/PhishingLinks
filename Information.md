@@ -58,18 +58,9 @@ Read [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) for mo
 
 ![example](https://i.imgur.com/YUhgkpt.png)
 
-**text**
-
-> text
-
-![api.env](assets/image3.PNG)
-![bot.env](assets/image4.PNG)
-
-> text> 
-
 **Malware & Token Stealers**
 
-> These are partially human-operated, some are automatic but some aren't.
+> These DMs are partially human-operated, some are automatic but some aren't. Chances are you have seen this kind of scam. Target users are often people with badges & moderators of large servers (their account can be used later).
 > 
 ![example](https://i.imgur.com/L9dl5Y1.png)
 
