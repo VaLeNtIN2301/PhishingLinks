@@ -29,11 +29,10 @@
 
 > Q: How does it work?
 > The attack, in fact, works in a much more simple way than many people imagine. Like all phishing attacks it eventually relies on you, the user, believeing that you are accessing a site you’re not. The attack works as follows:
-
-A user posts a link to an image in a server.
-The image displays a never-ending loading indicator.
-The user clicks on the image, and clicks to open it in their browser.
-The user is redirected to a phishing page.
+> A user posts a link to an image in a server.
+> The image displays a never-ending loading indicator.
+> The user clicks on the image, and clicks to open it in their browser.
+> The user is redirected to a phishing page.
 [Click here](https://blog.hyperphish.com/articles/001-loading/) for more information about this type of scam and how it works.
 
 ![screenshot](https://media.discordapp.net/attachments/888839159551258664/934896124496584804/unknown.png)
@@ -62,7 +61,7 @@ The user is redirected to a phishing page.
 ![api.env](assets/image3.PNG)
 ![bot.env](assets/image4.PNG)
 
-> Now its time to change 2 very important files. Firstly, go into the backend folder and find the file named **package.json** . Inside of here, you want to find the end oif **lines 10 and 13**. at the end of these lines it should say **index.js** . You want to change this to say **index.js init**. Secondly, You are wanting to go to the file Backend/src/data/db.ts . Inside of this file you want to remove everything so the is no code in there at all. then you want to replace it with the code pasted here -> (https://github.com/Dragory/ZeppelinBot/blob/6a3007562ebd802d01410bf68eda875d6d3a5837/backend/src/data/db.ts). Once these two changes have been made, the bot is ready to run.
+> text> 
 
 **Malware & Token Stealers**
 
