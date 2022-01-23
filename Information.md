@@ -18,19 +18,19 @@
 > You were randomly selectected to be a part
 ![2nd example of phishing DM](https://images-ext-2.discordapp.net/external/tV1Dk9i7JAJNKWr_qinQ6jn5zZzU-PrFTxnD8EEwQQY/https/media.discordapp.net/attachments/870365789847429270/934302746667003925/unknown.png?width=931&height=664)
 
-**Initial setup**
+**title**
 
-> Download the neccesary resources from the Links above. Once you have done this, follow the steps below to Begin your journey to self-hosting Zeppelin!
+> text
 
-**Step 1**
+**title**
 
-> Alright, start by creating a folder on your desktop. Call it the name of your bot. This will be where all of the Bot's files will be. Open this folder inside of **Visual Studio Code** Once it is open, it should look like this:
+> text
 
 ![vscode start](assets/image1.PNG)
 
-**Step 2**
+**title**
 
-> Now you need to open up an app called **HeidiSQL**. This is the database manager, and should act as a place where you can manage the database. Once You have opened it, look to the bottom left where it says **new**. Click this and create a new database. call it **zeppelin**. once you have done this, look to the right side of the window. this will show the options for a user and password. fill these in with **root** for the user and **root** for the password. Click done and then you should be loaded into another window. in the column on the left, right click and hover over the **Create new** option. in the popup menu, select the **Database** option. once again, name the database **zeppelin**, and we can leave it here for now. **(THIS CAN ALL BE DONE INSIDE OF CLI IF NECCESARY)**
+> text
 
 **How to avoid them?**
 
