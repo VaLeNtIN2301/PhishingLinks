@@ -51,13 +51,13 @@
 ![api.env](assets/image3.PNG)
 ![bot.env](assets/image4.PNG)
 
-**Step 6**
+**https://discord.com/blog/how-discord-is-fighting-spam**
 
 > Now its time to change 2 very important files. Firstly, go into the backend folder and find the file named **package.json** . Inside of here, you want to find the end oif **lines 10 and 13**. at the end of these lines it should say **index.js** . You want to change this to say **index.js init**. Secondly, You are wanting to go to the file Backend/src/data/db.ts . Inside of this file you want to remove everything so the is no code in there at all. then you want to replace it with the code pasted here -> (https://github.com/Dragory/ZeppelinBot/blob/6a3007562ebd802d01410bf68eda875d6d3a5837/backend/src/data/db.ts). Once these two changes have been made, the bot is ready to run.
 
 **Malware & Token Stealers**
 
-> malware
+> You were randomly selectected
 > 
 ![example](https://i.imgur.com/L9dl5Y1.png)
 
@@ -70,10 +70,11 @@
 
 > Now, things are starting to get serious. Close down all open terminals and open up a brand new one. run the command ```cd backend``` . oonce you are in this directory, run the command ```npm run migrate-prod``` . A lot of things will happen here. it is important to note that you will need to give it time. once this is all done, you shoud be greeted by a message saying it is complete. finally, run the command ```npm run watch``` . This will start the bot and will get everything running. If any errors pop up, ask for help on them in the suppourt server. Congrats, there is one last step. getting the dashboard online.
 
-**Step 10**
+**How Discord is Fighting Spam**
+> ”You know it. We know it. Spam sucks. So today, we want to tell you what we are doing to combat it.””
+https://discord.com/blog/how-discord-is-fighting-spam
+![How Discord is Fighting Spam](https://images-ext-2.discordapp.net/external/MJqE8I4deOWknsrajka6-BsdPFb6mvK9zsHvUms_ApQ/https/assets-global.website-files.com/5f9072399b2640f14d6a2bf4/618db6b2cf98f2d9aa324a53_image5.png?width=960&height=384)
 
-> Keeping the last terminal open, create a new one and then follow these commands -> ```cd dashboard``` . next, run the single command ```npm run watch``` . Once this command has ran, the bottom line should say **Compiled Succesfuly**. navigate to any browser now. In the search bar, type in ```localhost:1234``` . The dashboard should load soon. Once it has loaded, click the dashboard button and then follow the discord oauth2 redirects. If all works, you should load staright into the dashbaord and you should be ready to begin your configuration of the bot for your server.
-
-**Congratulations, you've made it! Zeppelin has been set up, but this isnt the end, you will need to configure the bot for your server now. take a look at (https://github.com/dexbiobot/Zeppelin) on how to configure the bot for your server. This can be challenging, but you've made it this far so things will be easier for you.**
+**Congratulations, you've made it! Zeppelin has been set up, but this isnt the end, you will need to configure the bot for your server now. take a look at (https://github.com/dexbiobot/Zeppelin) on how to configure the bot for your server. This can be challenging, but you've made it this far so things will be easier for you.**https://discord.com/blog/how-discord-is-fighting-spam
 
 **I will update this repository with any neccesary info as time goes on**
