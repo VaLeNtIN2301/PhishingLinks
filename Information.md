@@ -27,8 +27,7 @@
 
 **Loading Image Scam**
 
-> Q: How does it work?
-> The attack, in fact, works in a much more simple way than many people imagine. Like all phishing attacks it eventually relies on you, the user, believeing that you are accessing a site you’re not. The attack works as follows:
+> How does it work? The attack, in fact, works in a much more simple way than many people imagine. Like all phishing attacks it eventually relies on you, the user, believeing that you are accessing a site you’re not. The attack works as follows:
 > A user posts a link to an image in a server.
 > The image displays a never-ending loading indicator.
 > The user clicks on the image, and clicks to open it in their browser.
@@ -70,7 +69,7 @@
 ![example](https://i.imgur.com/L9dl5Y1.png)
 
 
-**Step 8**
+**text**
 
 > text
 
