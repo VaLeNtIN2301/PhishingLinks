@@ -33,8 +33,9 @@
 
 **How to avoid them?**
 
-> You can use self-moderation systems that use known APIs to detect bad domains & phishing links. 
-> [Dyno](discord.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds%20applications.commands&response_type=code&permissions=2134207679)
+> You can use self-moderation systems that use known APIs to detect bad domains & phishing links. Here are some examples:
+> 
+> [Dyno](discord.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds%20applications.commands&response_type=code&permissions=2134207679), 
 
 **Step 4**
 
