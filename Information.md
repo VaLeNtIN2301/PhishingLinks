@@ -5,7 +5,8 @@
 
 **What are phishing links?**
 
-> THIS WILL BE GETTING REGULAR UPDATES, SO PLEASE BE PATIENT IF SOMETHING IS NOT RIGHT!
+> Phishing domains
+![example of phishing DM](https://i.imgur.com/zS2EPAU.png)
 
 **Initial info for zeppelin**
 
