@@ -59,7 +59,7 @@
 
 **Malware & Token Stealers**
 
-> You were randomly selectected
+> These are partially human-operated, some are automatic but some aren't.
 > 
 ![example](https://i.imgur.com/L9dl5Y1.png)
 
