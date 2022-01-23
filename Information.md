@@ -13,9 +13,10 @@
 
 > Zeppelin is a Discord bot that is designed to be very customisable and have a lot of flexibility for all server types. It is open source and anyone can self host it whenever they want.
 
-**Starting off**
+**Fake Community Programs Invitation**
 
-> There are 2 main requirements for Zeppelin. they are as follows: **Node.js version 16.6.0 (https://nodejs.org/download/release/v16.6.0/)** - **MariaDB version 10.6.4 (https://mariadb.org/download/)**. some of these are not 100% neccesary, but are nice to have in the future.
+> text (...)
+![2nd example of phishing DM](https://images-ext-2.discordapp.net/external/tV1Dk9i7JAJNKWr_qinQ6jn5zZzU-PrFTxnD8EEwQQY/https/media.discordapp.net/attachments/870365789847429270/934302746667003925/unknown.png?width=931&height=664)
 
 **Initial setup**
 
