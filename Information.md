@@ -3,7 +3,7 @@
 
 **Consider putting a ⭐️ on this repo if you find it helpful!**
 
-**Zeppelin self hosting. Its not too easy, but its also not impossible**
+**What are phishing links?**
 
 > THIS WILL BE GETTING REGULAR UPDATES, SO PLEASE BE PATIENT IF SOMETHING IS NOT RIGHT!
 
