@@ -1,5 +1,5 @@
-# Zeppelin Setup Guide By @Lando Calrissian#0001
-![Zeppelin Banner](assets/zeppelinbanner.jpg)
+# Types of scams on Discord & how to handle them
+![Welcome to Policy at Discord!](https://images-ext-1.discordapp.net/external/wnhco0Jxc5iC7JHdZlW3ejzK-tn6EY19fejXMgTMyn4/https/miro.medium.com/max/1200/0%2AkF2QnaoPP31T5pxj?width=960&height=384)
 
 **Consider putting a ⭐️ on this repo if you find it helpful!**
 
