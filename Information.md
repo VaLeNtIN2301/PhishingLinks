@@ -80,12 +80,12 @@ Read [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) for mo
 
 **How to Properly Report Issues to Trust & Safety**
 
-> text
+> Read the support article (https://dis.gd/howtoreport) and the DMA article (https://dis.gd/dma104) for more information.
 
 **How Discord is Fighting Spam**
 > ”You know it. We know it. Spam sucks. So today, we want to tell you what we are doing to combat it.””
 
-https://discord.com/blog/how-discord-is-fighting-spam
+> https://discord.com/blog/how-discord-is-fighting-spam
 ![How Discord is Fighting Spam](https://images-ext-2.discordapp.net/external/MJqE8I4deOWknsrajka6-BsdPFb6mvK9zsHvUms_ApQ/https/assets-global.website-files.com/5f9072399b2640f14d6a2bf4/618db6b2cf98f2d9aa324a53_image5.png?width=960&height=384)
 
 **text**
