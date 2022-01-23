@@ -5,11 +5,11 @@
 
 **What are phishing links?**
 
-> Phishing domains
+> Phishing domains (...)
 
 ![example of phishing DM](https://i.imgur.com/zS2EPAU.png?width=480&height=192)
 
-**Initial info for zeppelin**
+**Other Types of Scams**
 
 > Zeppelin is a Discord bot that is designed to be very customisable and have a lot of flexibility for all server types. It is open source and anyone can self host it whenever they want.
 
@@ -55,9 +55,12 @@
 
 > Now its time to change 2 very important files. Firstly, go into the backend folder and find the file named **package.json** . Inside of here, you want to find the end oif **lines 10 and 13**. at the end of these lines it should say **index.js** . You want to change this to say **index.js init**. Secondly, You are wanting to go to the file Backend/src/data/db.ts . Inside of this file you want to remove everything so the is no code in there at all. then you want to replace it with the code pasted here -> (https://github.com/Dragory/ZeppelinBot/blob/6a3007562ebd802d01410bf68eda875d6d3a5837/backend/src/data/db.ts). Once these two changes have been made, the bot is ready to run.
 
-**Step 7**
+**Malware & Token Stealers**
 
-> Now its time to get serious. open up a new terminal inside of vscode and run the following command -> ```cd backend```. this will enter you into the 'backend' directory. now, you want to run the command -> ```npm ci```. a lot of things will happen in the terminal, but jut give it some time and it will complete what it needs to do. Now, you want to open up a different terminal in vscode and run these commands. firstly, do ```cd dashboard``` to enter the dahboard directory. inside of here, run the command ```npm ci```, just like before. once this is all done, you have passed the most crucial part of bot setup
+> malware
+> 
+![example](https://i.imgur.com/L9dl5Y1.png)
+
 
 **Step 8**
 
