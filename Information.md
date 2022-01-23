@@ -35,7 +35,7 @@
 
 > You can use self-moderation systems that use known APIs to detect bad domains & phishing links. Here are some examples:
 > 
-> [Dyno](discord.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds%20applications.commands&response_type=code&permissions=2134207679), 
+> [CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands), [SafeLink](https://discord.com/oauth2/authorize?client_id=819742627032596480&permissions=268725318&scope=bot+applications.commands)[Dyno](discord.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds%20applications.commands&response_type=code&permissions=2134207679), [Waifu](https://discord.com/oauth2/authorize?client_id=434556304661544960&scope=bot+applications.commands&permissions=403041526)
 
 **Step 4**
 
