@@ -31,9 +31,10 @@
 
 > Now you need to open up an app called **HeidiSQL**. This is the database manager, and should act as a place where you can manage the database. Once You have opened it, look to the bottom left where it says **new**. Click this and create a new database. call it **zeppelin**. once you have done this, look to the right side of the window. this will show the options for a user and password. fill these in with **root** for the user and **root** for the password. Click done and then you should be loaded into another window. in the column on the left, right click and hover over the **Create new** option. in the popup menu, select the **Database** option. once again, name the database **zeppelin**, and we can leave it here for now. **(THIS CAN ALL BE DONE INSIDE OF CLI IF NECCESARY)**
 
-**Step 3**
+**How to avoid them?**
 
-> Go back into vscode and open up the folder you created on your desktop. once you have opened it, open a new terminal inside of vscode and run this command -> ```git clone https://github.com/Dragory/ZeppelinBot.git```. let this run, and it should only take a few moments to finish. once it is complete, open up the new folder it created as your new "root" folder (basically open the folder it literally just created)
+> You can use self-moderation systems that use known APIs to detect bad domains & phishing links. 
+> [Dyno](discord.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds%20applications.commands&response_type=code&permissions=2134207679)
 
 **Step 4**
 
