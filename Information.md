@@ -16,6 +16,7 @@
 **Fake Community Programs Invitation**
 
 > You were randomly selectected to join HypeSquad Events or your community has been selected for the Partner program without even applying?
+
 ![2nd example of phishing DM](https://images-ext-2.discordapp.net/external/tV1Dk9i7JAJNKWr_qinQ6jn5zZzU-PrFTxnD8EEwQQY/https/media.discordapp.net/attachments/870365789847429270/934302746667003925/unknown.png?width=931&height=664)
 
 **title**
