@@ -27,7 +27,7 @@
 
 **Loading Image Scam**
 
-> Example
+> [Click here](https://blog.hyperphish.com/articles/001-loading/) for more information about this type of scam and how it works.
 
 ![screenshot](https://media.discordapp.net/attachments/888839159551258664/934896124496584804/unknown.png)
 
