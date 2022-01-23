@@ -1,4 +1,4 @@
-# Types of scams on Discord & how to handle them:
+https://media.discordapp.net/attachments/888839159551258664/934894468841213962/unknown.png# Types of scams on Discord & how to handle them:
 ![Welcome to Policy at Discord!](https://images-ext-1.discordapp.net/external/wnhco0Jxc5iC7JHdZlW3ejzK-tn6EY19fejXMgTMyn4/https/miro.medium.com/max/1200/0%2AkF2QnaoPP31T5pxj?width=480&height=192)
 
 **Consider putting a ⭐️ on this repo if you find it helpful!**
@@ -22,11 +22,11 @@
 
 > text
 
-**title**
+**Loading Image Scam**
 
-> text
+> Example
 
-![vscode start](assets/image1.PNG)
+![screenshot](https://media.discordapp.net/attachments/888839159551258664/934894468841213962/unknown.png)
 
 **title**
 
