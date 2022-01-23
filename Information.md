@@ -43,7 +43,7 @@ Read [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) for mo
 
 **title**
 
-> text
+![the usage of yuri](https://media.discordapp.net/attachments/896764596348665857/934906518124503090/unknown.png?width=521&height=664)
 
 **How to avoid them?**
 
