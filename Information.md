@@ -11,7 +11,7 @@
 
 **Other Types of Scams**
 
-> Zeppelin is a Discord bot that is designed to be very customisable and have a lot of flexibility for all server types. It is open source and anyone can self host it whenever they want.
+> text (...)
 
 **Fake Community Programs Invitation**
 
