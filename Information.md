@@ -37,7 +37,7 @@
 > 
 > The user is redirected to a phishing page.
 
-Read [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) for more information.
+Read the [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) post for more information.
 
 ![screenshot](https://media.discordapp.net/attachments/888839159551258664/934896124496584804/unknown.png)
 
