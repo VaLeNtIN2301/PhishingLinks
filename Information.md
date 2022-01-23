@@ -54,7 +54,7 @@ Read the [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) po
 
 **Invite Rewards Servers**
 
-> text
+> If you found an invite rewards server, there are 99.9% chances to be a scam.
 
 ![example](https://i.imgur.com/YUhgkpt.png)
 
