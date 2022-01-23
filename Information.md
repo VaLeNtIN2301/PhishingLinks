@@ -36,7 +36,8 @@
 > The user clicks on the image, and clicks to open it in their browser.
 > 
 > The user is redirected to a phishing page.
-[Click here](https://blog.hyperphish.com/articles/001-loading/) for more information about this type of scam and how it works.
+
+Read [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) for more information.
 
 ![screenshot](https://media.discordapp.net/attachments/888839159551258664/934896124496584804/unknown.png)
 
