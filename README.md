@@ -7,7 +7,7 @@ This is a resource for moderators & Discord users, a short list with all types o
 
 **What are phishing links?**
 
-> Phishing domains (...)
+> Even if it’s from a friend, you should not trust any random links or add your log-in information to any unfamiliar sites. Doing so will cause you to lose control of your own account and put other users at risk. Common “phishing” links include fake nitro gifts, fake steam profile links, and a “game” which the hacked user wants you to test. The links will also include typos to look as close to a real link as possible. 
 
 ![example of phishing DM](https://i.imgur.com/zS2EPAU.png?width=480&height=192)
 
