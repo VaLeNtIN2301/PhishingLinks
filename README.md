@@ -58,7 +58,7 @@ Read the [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) po
 
 **How to Properly Report Issues to Trust & Safety**
 
-> Read the support article (https://dis.gd/howtoreport) and the DMA article (https://dis.gd/dma104) for more information.
+> It’s important to properly report the user with message links at https://dis.gd/report. Read the support article (https://dis.gd/howtoreport) and the DMA article (https://dis.gd/dma104) for more information.
 
 **How Discord is Fighting Spam**
 > ”You know it. We know it. Spam sucks. So today, we want to tell you what we are doing to combat it.””
