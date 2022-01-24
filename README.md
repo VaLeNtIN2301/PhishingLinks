@@ -11,12 +11,6 @@ This is a resource for moderators & Discord users, a short list with all types o
 
 ![example of phishing DM](https://i.imgur.com/zS2EPAU.png?width=480&height=192)
 
-**How does it work?**
-
-> text (...)
-
-![how they work](https://media.discordapp.net/attachments/917905285501296750/934006172351098971/618db5ed8a907cce54c20175_7l7ERoor3RT4507Jut092IX4ztjuxN_1bXdfzkNlZBnvNAESK5WJYAfWUQpKGg35Hb4CIBgapZ5-GLAX32Tha1QhGeMph_CubcW4LvC0wXqqsGQEmo7WLIS4z7F8FnTyYS6xZgkl.png?width=960&height=550)
-
 **Fake Community Programs Invitation**
 
 > You were randomly selectected to join HypeSquad Events or your community has been selected for the Partner program without even applying?
