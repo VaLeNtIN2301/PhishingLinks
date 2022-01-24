@@ -1,4 +1,4 @@
-# Types of scams on Discord & how to handle them:
+# About phishing domains on Discord & how to handle them
 > plus resources, support articles & DMA articles
 
 ![Welcome to Policy at Discord!](https://images-ext-1.discordapp.net/external/wnhco0Jxc5iC7JHdZlW3ejzK-tn6EY19fejXMgTMyn4/https/miro.medium.com/max/1200/0%2AkF2QnaoPP31T5pxj?width=480&height=192)
