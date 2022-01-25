@@ -6,6 +6,7 @@ This is a resource for moderators & Discord users, a short list with all types o
 **Consider putting a ⭐️ on this repo if you find it helpful!**
 
 **What are phishing links?**
+Usually it's a fake login page where they trick you into entering your account data so they can steal your account. They can use your account later to SPAM all your friends, sell it or buy Nitro gifts using the attached card (if exists).
 
 > Even if it’s from a friend, you should not trust any random links or add your log-in information to any unfamiliar sites. Doing so will cause you to lose control of your own account and put other users at risk. Common “phishing” links include fake nitro gifts, fake steam profile links, and a “game” which the hacked user wants you to test. The links can also include typos to look as close to a real link as possible. 
 
