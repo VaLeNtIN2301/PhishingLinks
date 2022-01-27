@@ -15,7 +15,7 @@ Usually it's a fake login page where they trick you into entering your account d
 
 **Fake Community Programs Invitation**
 
-> You were randomly selectected to join HypeSquad Events or your community has been selected for the Partner program without even applying?
+> You were randomly selectected to join HypeSquad Events or your community has been selected for the Partner program without even applying? That's clearly a scam, report it to [Discord's Trust & Safety team](https://dis.gd/report) ASAP!
 
 ![2nd example of phishing DM](https://images-ext-2.discordapp.net/external/tV1Dk9i7JAJNKWr_qinQ6jn5zZzU-PrFTxnD8EEwQQY/https/media.discordapp.net/attachments/870365789847429270/934302746667003925/unknown.png?width=931&height=664)
 
