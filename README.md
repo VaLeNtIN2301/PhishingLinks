@@ -34,6 +34,7 @@ Read the [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) po
 
 ![the usage of yuri](https://media.discordapp.net/attachments/896764596348665857/934906518124503090/unknown.png?width=521&height=664)
 
+
 **How to avoid them?**
 
 > You can use auto-moderation systems that use known APIs to detect bad domains & phishing links. Here are some examples: [CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands), [SafeLink](https://discord.com/oauth2/authorize?client_id=819742627032596480&permissions=268725318&scope=bot+applications.commands), [AutoModerator](https://discord.com/oauth2/authorize?client_id=847081327950168104&permissions=83968&scope=applications.commands%20bot), [Dyno](discord.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds%20applications.commands&response_type=code&permissions=2134207679), [Waifu](https://discord.com/oauth2/authorize?client_id=434556304661544960&scope=bot+applications.commands&permissions=403041526), [GiselleBot](https://discord.com/oauth2/authorize?client_id=356831787445387285&permissions=813034742&scope=bot), [Fish 🐟](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726). Keep in mind that there are new phishing domains every hour and not all bad links will be detected by automod, but you will get rid of some of them.
