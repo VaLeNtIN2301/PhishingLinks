@@ -5,6 +5,7 @@ This is a resource for moderators & Discord users, a short list with all types o
 
 **Consider putting a ⭐️ on this repo if you find it helpful!**
 
+
 **What are phishing links?**
 Usually it's a fake login page where they trick you into entering your account data so they can steal your account. They can use your account later to SPAM all your friends, sell it or buy Nitro gifts using the attached card (if exists).
 
