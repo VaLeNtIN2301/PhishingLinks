@@ -61,7 +61,7 @@ Read the [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) po
 
 **How System DMs Look Like?**
 
-Discord System Messages are official messages that we send to alert you of an account issue. These Messages can range from a variety of Payment issues, Support Ticket Updates, and ToS Violation Warnings.
+> Discord System Messages are official messages that we send to alert you of an account issue. These Messages can range from a variety of Payment issues, Support Ticket Updates, and ToS Violation Warnings.
 
 ![systemDM](https://i.imgur.com/nm0DNhM.png)
 
