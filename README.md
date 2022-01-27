@@ -59,7 +59,8 @@ Read the [Hyperphish Blog](https://blog.hyperphish.com/articles/001-loading/) po
 
 > It’s important to properly report the user with message links at https://dis.gd/report. Read the support article (https://dis.gd/howtoreport) and the DMA article (https://dis.gd/dma104) for more information.
 
-**How System DMs Look Like?
+**How System DMs Look Like?**
+
 Discord System Messages are official messages that we send to alert you of an account issue. These Messages can range from a variety of Payment issues, Support Ticket Updates, and ToS Violation Warnings.
 
 ![systemDM](https://i.imgur.com/nm0DNhM.png)
